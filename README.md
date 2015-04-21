@@ -1,7 +1,8 @@
 # xduoj_editorial
-The editorials of problems in acm.xidian.edu.cn
+The editorials of problems in [Xidian University Online Judge](acm.xidian.edu.cn)
 
-To view the editorials, browse [here](https://github.com/xry111/xduoj_editorial), or clone it to your local storge.
+To view the editorials, browse [here](https://github.com/xry111/xduoj_editorial), or clone it to your local storge, by
+>git clone https://github.com/xry111/xduoj_editorial.git
 
 To submit your editorial, send email to [xry111](mailto:xry111@outlook.com) with subject like
 >[XDUOJ/editorial] Use brute-force to solve 1008
