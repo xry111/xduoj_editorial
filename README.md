@@ -1,5 +1,5 @@
 # xduoj_editorial
-The editorials of problems in [Xidian University Online Judge](acm.xidian.edu.cn)
+The editorials of problems in [Xidian University Online Judge](http://acm.xidian.edu.cn)
 
 To view the editorials, browse [here](https://github.com/xry111/xduoj_editorial), or clone it to your local storge, by
 >git clone https://github.com/xry111/xduoj_editorial.git
