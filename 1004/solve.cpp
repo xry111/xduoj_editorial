@@ -3,6 +3,16 @@
 const int opp[]={0,
 12,7,8,9,10,11,2,3,4,5,6,1};
 
+/*
+ * Silly MISTAKE is in five[][].
+ * See chinese.md for more.
+ * 
+ * Now we have new policy not to upload the source code
+ * with editorial. So this will not be fixed. 
+ *
+ * DO NOT COPY THIS ANYMORE!
+ */
+
 const int five[][10]={{0},
 	{2,3,4,5,6,2,3,4,5,6},
 	{1,6,9,10,3,1,6,9,10,3},
